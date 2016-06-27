@@ -1,0 +1,9 @@
+# ignore all hidden files
+.*
+
+# except these
+!.gitignore
+
+
+# ignore node_modules
+node_modules
